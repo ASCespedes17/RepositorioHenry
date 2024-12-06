@@ -1,1 +1,1 @@
-# RepositorioHenry -Homework modulo 2 -ejercicios 1,2,3 y 4
+# RepositorioHenry -Homework modulo 2 -ejercicio 1
